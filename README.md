@@ -1,6 +1,6 @@
 <!-- Glitchy Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+AlexKingHD;Multi-Dimensional+Developer;Future+Ubisoft+Engineer+%F0%9F%94%A5;GameDev+%7C+WebDev+%7C+AI+%7C+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+AlexKingHD; alt="Typing SVG" />
 </h1>
 
 <p align="center">
